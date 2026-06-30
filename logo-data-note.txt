@@ -1,0 +1,1 @@
+Logo is embedded inside index.html and also available as assets/logo.png for sub pages and social preview references.
